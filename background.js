@@ -12,7 +12,7 @@
         baiduTpl = baiduTpl+word;
         oxforTpl = oxforTpl+word;
         
-        //ldoceWin = window.open(ldoceTpl,'ldoce','left=920,top=0,width=500,height=800,location=0,status=0');
+        ldoceWin = window.open(ldoceTpl,'ldoce','left=920,top=0,width=500,height=800,location=0,status=0');
         //oxforWin = window.open(oxforTpl,'oxford','left=1000,top=0,width=500,height=800,location=0,status=0');
         newBaiduWin = window.open(baiduTpl,'baidu','left=1500,top=0,width=500,height=800,location=0,status=0');
 
